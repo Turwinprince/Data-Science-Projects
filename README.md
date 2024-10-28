@@ -1,1 +1,1 @@
-# End to Eclsnd Data science project
+# End to End Data science project
